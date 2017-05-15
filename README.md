@@ -1,6 +1,6 @@
 # template-zabbix-apc-pdu
 
-en-US / (pt-BR)[readme_pt-br.md]
+en-US / [pt-BR](readme_pt-br.md)
 
 Template created for APC PDU.
 Tested equipments: AP8841
