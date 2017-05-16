@@ -1,6 +1,6 @@
 # template-zabbix-apc-pdu
 
-[en-US](readme.md) / pt-BR
+[en-US](README.md) / pt-BR
 
 Template criado para o APC PDU.
 Equipamentos homologados: AP8841
